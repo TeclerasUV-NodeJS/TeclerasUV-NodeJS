@@ -1,0 +1,10 @@
+TeclerasUV-NodeJS
+___app
+______controllers
+_________estudianteingresaclase
+___queries
+_________get_tv_clase_password
+___views
+_________errorstandard
+_________estudianteingresaclase
+_________estudianteingresado
